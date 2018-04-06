@@ -1,0 +1,12 @@
+{
+    "name": "vondor/composer",
+    "description": "composer package",
+    "type": "project, library",
+    "authors": [
+        {
+            "name": "Leon Vergy",
+            "email": "vergy.prime@gmail.com"
+        }
+    ],
+    "require": {}
+}
